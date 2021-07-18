@@ -29,7 +29,7 @@ import { ExpandLess, ExpandMore, Settings } from "@material-ui/icons";
 
 const useStyles = makeStyles((theme) => ({
   paper: {
-    background: theme.palette.secondary.main,
+    background: "#222222",
     marginTop: 90,
   },
   appBar: {

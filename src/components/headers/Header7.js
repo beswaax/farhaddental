@@ -14,6 +14,7 @@ const useStyles = makeStyles((theme) => ({
     backgroundSize: "cover",
     backgroundColor: "#fffff",
     backgroundImage: `url("/assets/1.jpg")`,
+    marginBottom: "4rem",
   },
   primaryAction: {
     borderRadius: 0,

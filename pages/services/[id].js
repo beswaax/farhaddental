@@ -10,8 +10,6 @@ import Content6 from "../../src/components/content/ServicesContent6";
 
 import Head from "next/head";
 
-const useStyles = makeStyles((theme) => ({}));
-
 const contents = [
   {
     id: 1,
