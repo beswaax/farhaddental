@@ -1,0 +1,18 @@
+
+Hope you enjoy your new logo, here are the people that
+made your beautiful logo happen :)
+font name: IBMPlexMono-Medium
+font link: https://fonts.google.com/specimen/IBM+Plex+Mono
+font author: Mike Abbink
+font author site: https://www.mikeabbink.com/
+Slogan Font: unb_pro_bold
+
+icon designer: DinosoftLab
+icon designer link: /dinosoftlab
+        
+
+fontColor: {"hex":"#43b3a3"}
+bgColor: {"hex":"#FFFFFF"}
+iconColor: {"hex":"#43b3a3"}
+sloganColor: {"hex":"#43b3a3"}
+      
