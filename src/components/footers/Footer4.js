@@ -75,6 +75,13 @@ const useStyles = makeStyles((theme) => ({
   title: {
     color: theme.palette.primary.dark,
   },
+  anchor: {
+    textDecoration: "none",
+    color: theme.palette.primary.dark,
+    "&:hover": {
+      textDecoration: "none",
+    },
+  },
 }));
 
 export default function Footer(props) {
@@ -346,7 +353,14 @@ export default function Footer(props) {
               gutterBottom={false}
               className={classes.copy}
             >
-              {content["copy2"]}
+              Made with love by{" "}
+              <a
+                href="https://rangojango.com/"
+                target="_blank"
+                className={classes.anchor}
+              >
+                RangoJango
+              </a>
             </Typography>
             {/* <IconButton
               href="https://www.linkedin.com/in/peter-lewis-b5b3104b?originalSubdomain=ca"
