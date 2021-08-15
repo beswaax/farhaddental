@@ -4,9 +4,7 @@ import Container from "@material-ui/core/Container";
 import Grid from "@material-ui/core/Grid";
 import Box from "@material-ui/core/Box";
 import Typography from "@material-ui/core/Typography";
-import Link from "../../Link";
 import Button from "@material-ui/core/Button";
-import ArrowRightAltIcon from "@material-ui/icons/ArrowRightAlt";
 import { useMediaQuery, useTheme } from "@material-ui/core";
 
 const useStyles = makeStyles((theme) => ({
@@ -47,7 +45,6 @@ export default function Testimonials(props) {
   };
 
   const matchesSM = useMediaQuery(theme.breakpoints.down("sm"));
-  const matchesXS = useMediaQuery(theme.breakpoints.down("xs"));
 
   return (
     <section className={classes.section}>

@@ -81,9 +81,6 @@ export default function Header(props) {
 
   const content = {
     "header-p1": "Canada's Most Awarded Dental Practice",
-    // "header-p2": "reliable",
-    // "header-p3": "accounting firm",
-
     "primary-action": "Appointment",
     "secondary-action": "Call Us",
     image: "/assets/15.jpg",

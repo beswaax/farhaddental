@@ -158,22 +158,11 @@ export default function Contact(props) {
 
   const content = {
     header: "How can we help?",
-    title2:
-      "You can book online, get in touch with us via the form or give us a call; we’d love to hear from you.",
-    description2:
-      "Our contact details. We read all your questions carefully and answer them.",
     description:
       "We're here to answer your questions and be as helpful as possible.",
     terms: "I agree to the terms of use and privacy policy.",
     "primary-action": "Send Message",
-    contact1: "Address",
-    "contact1-desc1": "Suite 1610, Guinness Tower",
-    "contact1-desc2": "1055 West Hastings Street",
-    "contact1-desc3": "Vancouver, BC V6E 2E9 ",
-    contact2: "Email",
-    "contact2-desc": "plewis@lewisco.bc.ca",
-    contact3: "Phone",
-    "contact3-desc": "+1 604-664-0680",
+
     image: "/assets/1B.jpg",
     ...props.content,
   };

@@ -104,7 +104,7 @@ export default function Content(props) {
                 <CardMedia
                   image={content["image"]}
                   className={classes.cardMedia}
-                  alt="image of a highway with skylines in the background"
+                  alt="image of a doctor"
                 />
               </Card>
             </Grid>

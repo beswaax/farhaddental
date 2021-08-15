@@ -52,7 +52,6 @@ export default function Content(props) {
     image: "/assets/doc1.jpg",
     ...props.content,
   };
-  // "Years of experience and profound know-how in tax and economic issues enable the high quality that characterizes our tax planning. You benefit from a professional partner for your tax issues and have the certainty that you have done everything right in terms of tax law.",
   return (
     <section>
       <Container maxWidth="lg" data-aos="fade-up">

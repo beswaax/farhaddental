@@ -353,47 +353,8 @@ export default function Footer(props) {
               gutterBottom={false}
               className={classes.copy}
             >
-              Made with love by{" "}
-              <a
-                href="https://rangojango.com/"
-                target="_blank"
-                className={classes.anchor}
-              >
-                RangoJango
-              </a>
+              Made with love by Samuel Clintoc
             </Typography>
-            {/* <IconButton
-              href="https://www.linkedin.com/in/peter-lewis-b5b3104b?originalSubdomain=ca"
-              target="_blank"
-              color="inherit"
-              aria-label="Facebook"
-            >
-              <FacebookIcon />
-            </IconButton> */}
-            {/* <IconButton
-              href="https://www.linkedin.com/in/peter-lewis-b5b3104b?originalSubdomain=ca"
-              target="_blank"
-              color="inherit"
-              aria-label="Twitter"
-            >
-              <TwitterIcon />
-            </IconButton> */}
-            {/* <IconButton
-              href="https://www.linkedin.com/in/peter-lewis-b5b3104b?originalSubdomain=ca"
-              target="_blank"
-              color="inherit"
-              aria-label="Instagram"
-            >
-              <InstagramIcon />
-            </IconButton> */}
-            {/* <IconButton
-              href="https://www.linkedin.com/in/peter-lewis-b5b3104b?originalSubdomain=ca"
-              target="_blank"
-              color="inherit"
-              aria-label="LinkedIn"
-            >
-              <LinkedInIcon />
-            </IconButton> */}
           </Box>
         </Box>
       </Container>

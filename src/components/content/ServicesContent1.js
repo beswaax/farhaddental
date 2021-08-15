@@ -58,7 +58,7 @@ export default function Content({ content1 }) {
                 <CardMedia
                   image={content["image"]}
                   className={classes.cardMedia}
-                  alt="image of a highway with skylines in the background"
+                  alt="image of a dentistry"
                 />
               </Card>
             </Grid>

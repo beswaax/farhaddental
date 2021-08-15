@@ -6,7 +6,6 @@ import Box from "@material-ui/core/Box";
 import Typography from "@material-ui/core/Typography";
 import Link from "../../Link";
 import Button from "@material-ui/core/Button";
-import ArrowRightAltIcon from "@material-ui/icons/ArrowRightAlt";
 import { useMediaQuery, useTheme } from "@material-ui/core";
 import ChevronRightIcon from "@material-ui/icons/ChevronRight";
 
