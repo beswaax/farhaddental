@@ -94,8 +94,8 @@ export default function Footer(props) {
 
   const content = {
     brand: { image: "/assets/logo1/vector/default-monochrome.svg", width: 190 },
-    copy: "© 2021 Farhad Dental Care. All rights reserved.",
-    copy2: "Made with love by RangoJango",
+    copy: "© 2021 Farhad Dental Care.",
+    copy2: "All rights reserved.",
     header1: "Services",
     header2: "Quick Links",
     link1: "Home",
@@ -353,7 +353,7 @@ export default function Footer(props) {
               gutterBottom={false}
               className={classes.copy}
             >
-              Made with love by Samuel Clintoc
+              {content["copy2"]}
             </Typography>
           </Box>
         </Box>
